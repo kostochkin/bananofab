@@ -1,0 +1,2 @@
+Django==5.0.1
+environs==10.3.0
